@@ -8,9 +8,9 @@
 
 ### 🔬 **About Me**
 
-I am a researcher and clinical technologist working at the convergence of **Medical Imaging**, **Artificial Intelligence**, and **Translational Healthcare**. Currently, I am a **Senior Research Associate** at the **AI Centre of Excellence (AI-CoE), MAHE**, contributing to a **Ministry of Education (Government of India)**-funded healthcare AI initiative focused on developing clinically deployable AI solutions for cardiovascular imaging.
+I am a **Senior Research Associate** at the **AI Centre of Excellence (AI-CoE), Manipal Academy of Higher Education (MAHE)**, working at the convergence of **Medical Imaging**, **Artificial Intelligence**, and **Translational Healthcare**. I contribute to a **Ministry of Education (Government of India)**-funded research initiative focused on developing clinically deployable AI solutions for cardiovascular imaging.
 
-I bring **2+ years of industry experience** as a **Product Manager & Application Scientist**, where I deployed and customized clinical workflow, dosimetry, and medical imaging software (including **MIM Software, a GE Healthcare Company**) across hospitals throughout India.
+I recently completed my **M.Tech in Medical Informatics** and bring **over 2 years of industry experience** as a **Product Manager & Application Scientist**, where I deployed and customized advanced medical imaging, dosimetry, and clinical workflow solutions (including **MIM Software, a GE Healthcare Company**) across hospitals throughout India.
 
 My research and technical focus include:
 - 🩻 **Medical Imaging AI & Computer Vision**: Auto-segmentation of organs, vessels, and tumors in multimodal CT/MRI/PET imaging, radiomics, and feature fusion.
